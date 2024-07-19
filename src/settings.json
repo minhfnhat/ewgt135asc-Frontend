@@ -1,0 +1,74 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Discover the richness of every bean – crafted for moments that matter.",
+        "title": "Embark on a Coffee Journey"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Discover the richness of every bean – crafted for moments that matter.",
+        "title": "Embark on a Coffee Journey"
+      }
+    },
+    {
+      "id": "FooterFourColumnWithNewsletterBelow"
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Discover the richness of every bean – crafted for moments that matter.",
+        "title": "Embark on a Coffee Journey"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover the richness of every bean – crafted for moments that matter.",
+        "title": "Embark on a Coffee Journey"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover the richness of every bean – crafted for moments that matter.",
+        "title": "Embark on a Coffee Journey"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover the richness of every bean – crafted for moments that matter.",
+        "title": "Embark on a Coffee Journey"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover the richness of every bean – crafted for moments that matter.",
+        "title": "Embark on a Coffee Journey"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover the richness of every bean – crafted for moments that matter.",
+        "title": "Embark on a Coffee Journey"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover the richness of every bean – crafted for moments that matter.",
+        "title": "Embark on a Coffee Journey"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Embark on a Coffee Journey",
+  "subtitle": "Discover the richness of every bean – crafted for moments that matter."
+}
